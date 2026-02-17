@@ -1,0 +1,14 @@
+streamlit==1.36.0
+pandas==2.2.2
+numpy==1.26.4
+yfinance==0.2.40
+plotly==5.22.0
+scipy==1.13.1
+scikit-learn==1.5.1
+PyPortfolioOpt==1.5.5
+cvxpy==1.5.2
+osqp==0.6.7.post0
+scs==3.2.6
+ecos==2.0.14
+xlsxwriter==3.2.0
+openpyxl==3.1.5
